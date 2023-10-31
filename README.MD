@@ -9,7 +9,7 @@ We can build the images and we can push to any docker repository.
 docker build -t image-name:version .
 ```
 
-#### How to build docker image
+#### How to push docker image
 ```
 docker login
 ```
